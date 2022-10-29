@@ -1,1 +1,4 @@
-# moscow_clusters
+# Кластеризация Москвы
+<p align="center" width="100%">
+  <img src="https://github.com/LIvanoff/moscow_clusters/blob/main/1000_clusters.jpg" width="500" height="500" />
+</p>
